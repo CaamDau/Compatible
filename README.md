@@ -2,7 +2,7 @@
   <img src="https://github.com/liucaide/Images/blob/master/CaamDau/caamdau.png" align=centre />
 </p>
 
-[![CI Status](https://img.shields.io/travis/CaamDau/Compatible.svg?style=flat)](https://travis-ci.org/CaamDau/Compatible)
+[![CI Status](https://img.shields.io/travis/CaamDau/CaamDauCompatible.svg?style=flat)](https://travis-ci.org/CaamDau/Compatible)
 [![Version](https://img.shields.io/cocoapods/v/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
 [![License](https://img.shields.io/cocoapods/l/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
 [![Platform](https://img.shields.io/cocoapods/p/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
