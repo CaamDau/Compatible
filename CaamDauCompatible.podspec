@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   附.各种类库使用示例demo.
                        DESC
 
-  s.homepage         = 'https://github.com/CaamDau/Compatible'
+  s.homepage         = 'https://github.com/CaamDau'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liucaide' => '565726319@qq.com' }
   s.source           = { :git => 'https://github.com/CaamDau/Compatible.git', :tag => s.version }
