@@ -3,10 +3,10 @@
 </p>
 
 [![CI Status](https://img.shields.io/travis/CaamDau/Compatible.svg?style=flat)](https://travis-ci.org/CaamDau/Compatible)
-[![Version](https://img.shields.io/cocoapods/v/Compatible.svg?style=flat)](https://cocoapods.org/pods/Compatible)
-[![License](https://img.shields.io/cocoapods/l/Compatible.svg?style=flat)](https://cocoapods.org/pods/Compatible)
-[![Platform](https://img.shields.io/cocoapods/p/Compatible.svg?style=flat)](https://cocoapods.org/pods/Compatible)
-[![](https://img.shields.io/badge/Swift-4.0~5.0-orange.svg?style=flat)](https://cocoapods.org/pods/Compatible)
+[![Version](https://img.shields.io/cocoapods/v/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
+[![License](https://img.shields.io/cocoapods/l/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
+[![Platform](https://img.shields.io/cocoapods/p/CaamDauCompatible.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
+[![](https://img.shields.io/badge/Swift-4.0~5.0-orange.svg?style=flat)](https://cocoapods.org/pods/CaamDauCompatible)
 
 # Compatible
 > 蚕豆 (粤语caam dau)
